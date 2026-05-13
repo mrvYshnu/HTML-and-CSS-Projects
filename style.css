@@ -28,3 +28,32 @@ footer {
   text-align: center;
   padding: 15px;
 }
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.project-card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #333;
+}
+
+.project-card a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #667eea;
+    text-decoration: none;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
