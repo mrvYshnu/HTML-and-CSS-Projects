@@ -1,10 +1,13 @@
-# HTML and CSS Projects
+# Portfolio Website
 
-This repository contains all coursework and projects completed during my HTML and CSS course.
+This repository contains my HTML and CSS portfolio website project.
 
-The purpose of this repository is to:
-- Practice using HTML and CSS to build web pages
-- Track my progress throughout the course
-- Demonstrate version control skills using Git and GitHub
-- Build a portfolio of projects for future reference and job applications
-All work for this course will be completed locally and pushed to this GitHub repository on a regular basis.
+## Technologies Used
+- HTML
+- CSS
+
+## Description
+This project was created as a final assignment for my HTML and CSS course.
+
+## Live Website
+Coming Soon
